@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1722025027 source:c:\users\caios\downloads\lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1722032350 source:c:\users\caios\downloads\lista duplamente encadeada\modulo.c
+	<stdio.h>
+	<stdlib.h>
+
+1722027192 c:\users\caios\downloads\lista duplamente encadeada\lib.h
+	<stdio.h>
+	<stdlib.h>
+
